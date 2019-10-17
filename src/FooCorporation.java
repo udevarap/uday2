@@ -10,7 +10,7 @@ public class FooCorporation
     public static void FC(double pay, int hours)
     {
         double totalPay = pay*hours;
-        System.out.println("Total pay of the employee is " + totalPay);
+        System.out.println("Total pay of the employee is " + totalPay "$");
 
         if (pay==7.50 && (hours<=35){
             System.out.println(" this is employee1");
